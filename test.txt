@@ -4,3 +4,4 @@ git is free software
 git diff text.txt
 git reset --hard
 git reflog
+git checkout text.txt
