@@ -5,3 +5,4 @@ git diff text.txt
 git reset --hard
 git reflog
 git checkout text.txt
+applicationContest.xml
