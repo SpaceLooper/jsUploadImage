@@ -9,3 +9,4 @@ applicationContest.xml
 git is good
 git is easy to use
 git is really usefull
+boss is stupid
