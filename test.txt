@@ -6,3 +6,6 @@ git reset --hard
 git reflog
 git checkout text.txt
 applicationContest.xml
+git is good
+git is easy to use
+git is really usefull
